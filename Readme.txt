@@ -1,4 +1,4 @@
-This is a basic web app with React as frontend, Flask as backend, MySQL as database management system.
+This is a web app with React as frontend, Flask as backend, MySQL as database management system.
 
 React as frontend, which has the following url, features:
 	- /login, allows people to login and see the home page
